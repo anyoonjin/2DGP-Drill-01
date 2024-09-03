@@ -4,5 +4,6 @@ thankyou
 I love you
 
 day2-hello
+day2-thankyou
 
 gg
